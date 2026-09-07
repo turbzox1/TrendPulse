@@ -1,0 +1,1 @@
+"""Explainable trend statistics."""

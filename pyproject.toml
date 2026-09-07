@@ -1,0 +1,9 @@
+[project]
+name = "trendpulse"
+version = "1.0.0"
+description = "Explainable internet trend intelligence"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
